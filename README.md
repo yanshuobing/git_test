@@ -1,2 +1,3 @@
 # git_test
-My first repository for learning web development with The Odin Project.
+My first repo for learning web development with TOP.
+Hello, Odin!
